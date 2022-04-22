@@ -3,12 +3,12 @@
     "defaultStyling": true,
     "colors": {
       "light": {
-        "primary": "#4A5428",
-        "accent": "#ECE0CF",
+        "primary": "#2e2e3e",
+        "accent": "##2e2e3e",
         "background": "#FFFFFF",
-        "font": "#0F1108",
+        "font": "#2e2e3e",
         "font-on-primary": "#FFFFFF",
-        "font-on-accent": "#0F1108"
+        "font-on-accent": "#2e2e3e"
       },
       "dark": {
         "primary": "tomato",
@@ -20,8 +20,8 @@
       }
     },
     "fonts": {
-      "headline": "Open Sans",
-      "body": "Open Sans"
+      "headline": "Roboto",
+      "body": "Roboto"
     }
   },
   "segments": {

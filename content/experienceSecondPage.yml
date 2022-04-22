@@ -1,0 +1,34 @@
+title:
+segments:
+  # -
+  #   title: SAP SE
+  #   position: Consulting LoB Insurance
+  #   description: Supporting Treasury & Risk Management (TRM/FAM) customer projects
+  #   location: Walldorf, Germany
+  #   date:
+  #     from: 08/2018
+  #     to: 11/2018
+  -
+    title: SAP America
+    position: SAP HANA Technical Consulting
+    description: S/4HANA conversion projects at customers across the US
+    location: Palo Alto, CA, United States
+    date:
+      from: 02/2018
+      to: 05/2018
+  -
+    title: SAP SE
+    position: Business Transformation Services
+    description: Develop and evaluate use cases for the Automotive & Manufacturing industry with Machine Learning, IoT, Blockchain, Virtual and Augmented Reality
+    location: Walldorf, Germany
+    date:
+      from: 08/2017
+      to: 11/2017
+  # -
+  #   title: SAP SE
+  #   position: ABAP Development
+  #   description: Treasury & Risk Management - Service & Support
+  #   location: Walldorf, Germany
+  #   date:
+  #     from: 01/2017
+  #     to: 04/2017

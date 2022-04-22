@@ -1,43 +1,99 @@
 [
   {
-    "title": "Storytelling",
+    "title": "Development",
     "entries": [
       {
-        "title": "Lorem Ipsum1",
+        "title": "Python",
         "level": 5
       },
       {
-        "title": "Lorem Ipsum2",
-        "level": 5
+        "title": "JavaScript",
+        "level": 4
       },
       {
-        "title": "Lorem Ipsum3",
-        "level": 5
+        "title": "React",
+        "level": 4
       },
       {
-        "title": "Lorem Ipsum4",
-        "level": 5
+        "title": "Vue",
+        "level": 4
+      },
+      {
+        "title": "Node",
+        "level": 4
+      },
+      {
+        "title": "HTML/CSS",
+        "level": 4
+      },
+      {
+        "title": "flutter",
+        "level": 3
+      },
+      {
+        "title": "CI/CD",
+        "level": 3
+      },
+      {
+        "title": "Kotlin",
+        "level": 2
+      },      {
+        "title": "Java",
+        "level": 2
+      },
+      {
+        "title": "SQL",
+        "level": 2
+      },
+      {
+        "title": "R",
+        "level": 2
+      },
+      {
+        "title": "VBA",
+        "level": 1
+      },
+      {
+        "title": "Elixir",
+        "level": 1
       }
     ]
   },
   {
-    "title": "Flying",
+    "title": "Tools",
     "entries": [
       {
-        "title": "Lorem Ipsum12",
-        "level": 5
+        "title": "Alteryx",
+        "level": 3
       },
       {
-        "title": "Lorem Ipsum22",
-        "level": 5
+        "title": "Tableau",
+        "level": 3
       },
       {
-        "title": "Lorem Ipsum32",
-        "level": 5
+        "title": "MS Office (Excel & Powerpoint)",
+        "level": 3
       },
       {
-        "title": "Lorem Ipsum42",
-        "level": 5
+        "title": "Figma",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "title": "Methodology",
+    "entries": [
+      {
+        "title": "Design Thinking",
+        "level": 3
+      },
+      {
+        "title": "Agile Project Management",
+        "level": 3
+      },
+      {
+        "title": "User Experience",
+        "level": 3
       }
     ]
   }

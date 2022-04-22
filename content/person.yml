@@ -1,0 +1,18 @@
+---
+name:
+  first: Henry
+  last: Stoll
+# information:
+#   - Musterstraße 7
+#   - 68161 Mannheim
+#   - Germany
+# address:
+#   street: Gertrud-Bäumer-Straße 43
+#   zip: 65189
+#   city: Wiesbaden
+#   country: Germany
+address:
+  street: Peter Bangs Vej 7A
+  zip: 2000
+  city: Frederiksberg
+  country: Denmark

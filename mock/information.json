@@ -1,30 +1,30 @@
 {
-  "name": "Petra Pan",
-  "image": "/petra-pan-profile.jpeg",
+  "name": "Henry Stoll",
+  "image": "/profile_casual.jpg",
   "list": [
     {
-      "title": "+49 18404 4849 393",
-      "url": "tel:+49184044849393"
+      "title": "+49 170 6060 178",
+      "url": "tel:+491706060178"
     },
     {
-      "title": "petra@pan.neverland",
-      "url": "mailto:petra@pan.neverland"
+      "title": "hi@henrystoll.de",
+      "url": "mailto:hi@henrystoll.de"
     }
   ],
   "footer": {
-    "logo": "/petra-pan-logo.svg",
+    "logo": "",
     "links": [
       {
-        "title": "pan.neverland",
-        "url": "https://pan.neverland"
+        "title": "henrystoll.de",
+        "url": "https://henrystoll.de"
       },
       {
-        "title": "linkedin.com/in/petrapan",
-        "url": "http://linkedin.com/in/petrapan2123412341234"
+        "title": "linkedin.com/in/henry-stoll/",
+        "url": "https://linkedin.com/in/henry-stoll/"
       },
       {
-        "title": "github.com/PetraPan",
-        "url": "https://github.com/PetraPan341234123123512352341234124"
+        "title": "github.com/henrystoll",
+        "url": "https://github.com/henrystoll"
       }
     ]
   }

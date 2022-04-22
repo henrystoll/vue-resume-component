@@ -1,0 +1,67 @@
+title: Experience
+segments:
+  -
+    title: UNICEF
+    position: Consultant Blockchain
+    description: The Last Mile Supply Monitoring Project aims to better understand how for example schools, hospitals and children benefit from UNICEF’s supply programmes through integrated reporting of supply data outside of UNICEF’s current systems.
+    location: Copenhagen, Denmark
+    date:
+      from: 07/2021
+      to: now
+  # -
+  -
+    title: CBS Department of Digitalization
+    position: Student Assistant Blockchain
+    description: Development of Use Cases for Product Authentification, Tracability and Sustainability based on Hyperledger 
+    location: Copenhagen, Denmark
+    date:
+      from: 10/2020
+      to: 08/2021
+  # -
+  #   title: paperjunkies.de GbR
+  #   position: Business Development Internship
+  #   description: Design of a Hardware Product with Hybrid App
+  #   location: Wiesbaden, Germany
+  #   date:
+  #     from: 04/2020
+  #     to: 07/2020
+  # -
+    title: NEON Software Solutions GmbH
+    position: Software Development Internship
+    description: "Web Development with Vue.js and Hybrid App Development"
+    location: Berlin, Germany
+    date:
+      from: 01/2020
+      to: 03/2020
+  # -
+  #   title: SAP SE
+  #   position: Cooperate Student Business Informatics
+  #   description: Six internships in various departments ranging from Software Development to Business Consulting
+  #   location: Walldorf, Germany
+  #   date:
+  #     from: 09/2016
+  #     to: 09/2019
+  -
+    title: SAP SE
+    position: Web Development GBO Board Office
+    description: "Bachelor Thesis: Digitalization of the SAP Management Report with Storytelling"
+    location: Walldorf, Germany
+    date:
+      from: 02/2019
+      to: 05/2019
+  -
+    title: SAP SE
+    position: Consulting LoB Insurance
+    description: Supporting Treasury & Risk Management (TRM/FAM) customer projects
+    location: Walldorf, Germany
+    date:
+      from: 08/2018
+      to: 11/2018
+  # -
+  #   title: SAP America
+  #   position: SAP HANA Technical Consulting
+  #   description: S/4HANA conversion projects at customers across the US
+  #   location: Palo Alto, CA, United States
+  #   date:
+  #     from: 02/2018
+  #     to: 05/2018

@@ -1,0 +1,106 @@
+---
+title: Skills
+lists:
+  -
+    title: Development
+    skills:
+      -
+        title: Python
+        level: 3
+      -
+        title: JavaScript
+        level: 4
+      -
+        title: React.js
+        level: 3
+      -
+        title: Vue.js
+        level: 4
+      -
+        title: flutter
+        level: 3
+      # -
+      #   title: SAPUI5
+      #   level: 3
+      -
+        title: CSS
+        level: 4
+      -
+        title: Git
+        level: 3
+      -
+        title: R
+        level: 1
+      -
+        title: SQL
+        level: 2
+      -
+        title: VBA
+        level: 1
+      -
+        title: SAP HANA
+        level: 2
+      -
+        title: ABAP
+        level: 3
+      -
+        title: Kotlin
+        level: 2
+      -
+        title: Java
+        level: 2
+      -
+        title: PHP
+        level: 1
+  -
+    title: Software
+    skills:
+      -
+        title: Alteryx
+        level: 3
+      -
+        title: Tableau
+        level: 3
+      -
+        title: Office 365
+        level: 2
+      -
+        title: G Suite
+        level: 4
+      -
+        title: Slack
+        level: 4
+      -
+        title: Zapier
+        level: 3
+  -
+    title: Others
+    skills:
+      -
+        title: Design Thinking
+        level: 3
+      -
+        title: Project Management
+        level: 
+      -
+        title: User Experience
+        level: 3
+      -
+        title: Presentation
+        level: 4
+      -
+        title: SCRUM
+        level: 4
+  -
+    title: Languages
+    skills:
+      -
+        title: German - native
+        level: 5
+      -
+        title: English - fluent
+        level: 4
+      -
+        title: French - basic
+        level: 1
+

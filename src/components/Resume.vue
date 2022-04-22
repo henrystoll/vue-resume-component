@@ -1,4 +1,6 @@
 <template>
+  <link rel="stylesheet"  :href="'https://fonts.googleapis.com/css?family=' + settings.style.fonts.headline">
+  <link rel="stylesheet"  :href="'https://fonts.googleapis.com/css?family=' + settings.style.fonts.body">
   <div class="resume">
     <resume-header
         class="header"

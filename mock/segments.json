@@ -3,18 +3,25 @@
     "title": "Education",
     "entries": [
       {
-        "title": "University of  Childhood (UC)",
-        "location": "Never Land",
-        "from": "2016",
-        "to": "2019",
-        "description": "Bachelor of Science in how to stay a child (final grade: 1.0)."
+        "title": "Copenhagen Business School (CBS)",
+        "location": "Copenhagen, Denmark",
+        "from": "2020",
+        "to": "2022",
+        "description": "MSc Data Science & Business Administration with electives in Advanced NLP (KU) and Big Data Management (ITU)"
       },
       {
-        "title": "Never Land School (NLS)",
-        "location": "Never Land",
-        "from": "2003",
+        "title": "Duale Hochschule Baden-Württemberg (DHBW)",
+        "location": "Mannheim, Germany",
+        "from": "2016",
+        "to": "2019",
+        "description": "BSc Business Information Systems at SAP SE"
+      },
+      {
+        "title": "Leibnizschule Wiesbaden, Gymnasium",
+        "location": "Wiesbaden, Germany",
+        "from": "2008",
         "to": "2016",
-        "description": "Combined elementary and high school. Advanced Courses in: Unicorngraphy, Fairy Tale, Physics"
+        "description": "Abitur: 1,1 - Advanced Courses in Economics and Biology"
       }
     ]
   },
@@ -22,20 +29,36 @@
     "title": "Experience",
     "entries": [
       {
-        "title": "Unicorns nature conservation",
-        "position": "Guard",
-        "location": "Dreamland",
-        "from": "2021",
-        "to": "2025",
-        "description": "Maintain the highly protected reserve for Unicorns."
+        "title": "UNICEF",
+        "position": "Consultant",
+        "location": "Copenhagen, Denmark",
+        "from": "07/2021",
+        "to": "now",
+        "description": "The Last Mile Supply Monitoring Project aims to better understand how for example schools, hospitals and children benefit from UNICEF’s supply programmes through integrated reporting of supply data outside of UNICEF’s current systems. I am responsible for designing and building this system."
       },
       {
-        "title": "Unicorns nature conservation2",
-        "position": "Guard2",
-        "location": "Dreamland2",
-        "from": "2021",
-        "to": "2025",
-        "description": "Maintain the highly protected reserve for Unicorns.2"
+        "title": "CBS Department of Digitalization",
+        "position": "Student Assistant Blockchain",
+        "location": "Copenhagen, Denmark",
+        "from": "10/2020",
+        "to": "08/2021",
+        "description": "Development of Use Cases for Product Authentication, Traceability and Sustainability based on Hyperledger"
+      },
+      {
+        "title": "NEON Software Solutions GmbH",
+        "position": "Software Developer",
+        "location": "Berlin, Germany",
+        "from": "01/2020",
+        "to": "04/2020",
+        "description": "Developed a video course platform and a Social Media app (>100k downloads, 4.8 stars with 5000 reviews) in a team of three"
+      },
+      {
+        "title": "SAP SE",
+        "position": "Corporate Student",
+        "location": "Walldorf/Palo Alto",
+        "from": "2016",
+        "to": "2019",
+        "description": "SAP SE, 3 months, Walldorf, Germany<br>GBO Board Office: Web Development and Bachelor Thesis \"Digitization of the SAP Management Report with Storytelling\"<br><br>SAP SE, 3 months, Walldorf, Germany<br>Practise Unit Insurance: Supporting Treasury & Risk Management (TRM/FAM) customer projects<br><br>SAP America, 3 months, Palo Alto, USA<br>Technical Consulting: Support customers implementation of S/4HANA in onsite projects across the US.<br><br>SAP SE, 3 months, Walldorf, Germany<br>Business Transformation Services Automotive & Manufacturing: Foresight Markets: Develop and evaluate use cases using cutting edge technologies like Maschine Learning, IoT, Blockchain and Virtual and Augmented Reality.<br><br>SAP SE, 3 months, Rot, Germany<br>Treasury & Risk Managment: Extend an ABAP report in collaboration with the Deutsche Bundesbank (German National Bank)."
       }
     ]
   },
@@ -43,20 +66,20 @@
     "title": "Voluntary",
     "entries": [
       {
-        "title": "Voluntary3",
-        "position": "Guard3",
-        "location": "Dreamland3",
-        "from": "2021",
-        "to": "2025",
-        "description": "Maintain the highly protected reserve for Unicorns.3"
+        "title": "SAP SE & TUM",
+        "position": "Student Assistant to Supervisory Board",
+        "location": "Munich, Germany",
+        "from": "09/2018",
+        "to": "09/2019",
+        "description": "Preparing and supporting the Initiative Digital Transformation lecture at the Technical University Munich (TUM) held by Gerhard Oswald, Member of the SAP Supervisory Board. The seminar was awarded \"Best Lecture at the Informatics Faculty\" in 2019."
       },
       {
-        "title": "Voluntary4",
-        "position": "Guard4",
-        "location": "Dreamland4",
-        "from": "2021",
-        "to": "2025",
-        "description": "Maintain the highly protected reserve for Unicorns.4"
+        "title": "Q-Summit",
+        "position": "Team Lead",
+        "location": "Mannheim, Germany",
+        "from": "2016",
+        "to": "2019",
+        "description": "Founded in 2016, the Q-Summit became the largest student organised Entrepreneurship & Innovation conference in Germany within only 2.5 years. With more than 1,000 attendees of the Q-Summit conference at the University of Mannheim, the conference represents a platform for Innovation in the Rhine-Neckar region that unites Entrepreneurs, Investors, Corporation, Researchers and Students from diverse backgrounds. I led and enabled various small teams through Design Thinking Workshops to bring Q-Summit to next level and to ensure a professional and high-quality event."
       }
     ]
   }
